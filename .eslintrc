@@ -1,0 +1,11 @@
+{
+  "extends": "react-app",
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "import/no-anonymous-default-export": "off"
+  },
+  "globals": {
+    "_paq": true
+  }
+}
