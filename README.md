@@ -1,4 +1,4 @@
-# Carousel using React with TypeScript
+# UI components usingTypeScript
 
 ## What's new
 - Tailwind
