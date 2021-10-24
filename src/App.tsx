@@ -1,5 +1,5 @@
 import React from "react";
-import { CarouselCard } from "./components/Card";
+import { CarouselCard } from "./components/Design/Card";
 function App() {
   return (
     <div>
